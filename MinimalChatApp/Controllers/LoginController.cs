@@ -90,7 +90,7 @@ namespace MinimalChatApp.Controllers
                 };
                 var authclaims = new List<Claim>
                 {
-                    new Claim(ClaimTypes.Email, user.UserName),
+                    new Claim(ClaimTypes.Name, user.UserName),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
                 };
                 var JWTtoken = GenerateToken(authclaims);
