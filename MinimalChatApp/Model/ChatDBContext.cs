@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using MinimalChatApp.Model;
 
 namespace MinimalChatApplication.Model
 {
@@ -16,5 +17,7 @@ namespace MinimalChatApplication.Model
         }
 
         public DbSet<Message> Messages { get; set; }
+        public DbSet<Log> Logs { get; set; }
+
     }
 }

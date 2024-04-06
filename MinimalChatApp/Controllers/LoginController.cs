@@ -64,7 +64,7 @@ namespace MinimalChatApp.Controllers
                 else
                 {
                     return BadRequest("Registration failed due to validation errors");
-                    //return StatusCode(result.Errors.Count); ;
+                    
 
                 }
             }
@@ -90,7 +90,7 @@ namespace MinimalChatApp.Controllers
                 };
                 var authclaims = new List<Claim>
                 {
-                    new Claim(ClaimTypes.Name, user.UserName),
+                    new Claim(ClaimTypes.Email, user.UserName),
                     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
                 };
                 var JWTtoken = GenerateToken(authclaims);
@@ -119,9 +119,7 @@ namespace MinimalChatApp.Controllers
 
         private JwtSecurityToken GenerateToken(List<Claim> claimss)
         {
-            
-            string values = _Configuration["Jwt:Key"];
-            var securitykey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(values));
+            var securitykey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_Configuration["Jwt:Key"]));
             var credentials = new SigningCredentials(securitykey, SecurityAlgorithms.HmacSha256);
 
             var token = new JwtSecurityToken(_Configuration["Jwt:Issuer"],
@@ -135,6 +133,7 @@ namespace MinimalChatApp.Controllers
         }
         [HttpGet]
         [Route("users")]
+        [AllowAnonymous]
         public async Task<IActionResult> GetUsers()
         {
             
@@ -159,7 +158,7 @@ namespace MinimalChatApp.Controllers
             {
                 Userrs = UserDetails
             };
-            return Ok(userss);
+            return Ok(UserDetails);
         }
     }
 }

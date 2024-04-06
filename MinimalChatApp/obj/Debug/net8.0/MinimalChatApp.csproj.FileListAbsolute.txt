@@ -284,3 +284,4 @@ C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\sco
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalC.44FD723C.Up2Date
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.genruntimeconfig.cache
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\ref\MinimalChatApp.dll
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.sourcelink.json

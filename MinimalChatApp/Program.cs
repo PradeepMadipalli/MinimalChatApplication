@@ -6,6 +6,7 @@ using System.Text;
 using System.Configuration;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.OpenApi.Models;
+using MinimalChatApp.Model;
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -87,6 +88,8 @@ app.UseHttpsRedirection();
 
 app.UseAuthentication();
 app.UseAuthorization();
+
+app.UseRequestLogging();
 
 app.MapControllers();
 
