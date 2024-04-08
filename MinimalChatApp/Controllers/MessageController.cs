@@ -29,14 +29,14 @@ namespace MinimalChatApp.Controllers
             _httpContextAccessor = httpContextAccessor;
         }
         [HttpPost]
-        [Route("Send")]
+        [Route("send")]
         public async Task<IActionResult> SendMessage(MessageRequest request)
         {
             if (ModelState.IsValid)
             {
-                
+                // _userManager.FindByNameAsync(Claim.)
                 string user = _httpContextAccessor.HttpContext.User.Identity.Name;
-                
+                //var s = User.FindFirst(ClaimTypes.NameIdentifier).Value;
 
                 var receiverExists = await _context.Users.AnyAsync(u => u.Id == request.ReceiverId);
                 if (!receiverExists)
@@ -70,8 +70,8 @@ namespace MinimalChatApp.Controllers
                 return BadRequest("Message sending failed due to validation errors");
             }
         }
-        
-        [HttpPut("Edit/{messageId}")]
+
+        [HttpPut("{messageId}")]
         public async Task<IActionResult> EditMessage(string messageId, EditMessageRequest request)
         {
 
@@ -110,7 +110,7 @@ namespace MinimalChatApp.Controllers
             }
         }
 
-        [HttpDelete("Delete/{messageId}")]
+        [HttpDelete("{messageId}")]
         public async Task<IActionResult> DeleteMessage(string messageId)
         {
 

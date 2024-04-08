@@ -17,7 +17,8 @@ namespace MinimalChatApplication.Model
         }
 
         public DbSet<Message> Messages { get; set; }
-        public DbSet<Log> Logs { get; set; }
+        public DbSet<Logs> Logs { get; set; }
 
+        public DbSet <ErrorLogger > ErrorLogs { get; set; }
     }
 }

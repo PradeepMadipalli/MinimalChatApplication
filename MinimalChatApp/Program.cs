@@ -6,7 +6,8 @@ using System.Text;
 using System.Configuration;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.OpenApi.Models;
-using MinimalChatApp.Model;
+using MinimalChatApp.Business;
+using Microsoft.AspNetCore.Server.Kestrel.Core;
 var builder = WebApplication.CreateBuilder(args);
 
 
@@ -73,7 +74,14 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
-
+builder.Services.Configure<KestrelServerOptions>(options =>
+{
+    options.AllowSynchronousIO = true;
+});
+builder.Services.Configure<IISServerOptions>(options =>
+{
+    options.AllowSynchronousIO = true;
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -83,13 +91,16 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+//app.MapWhen(context => !context.Request.Path.StartsWithSegments("/api"), builder =>
+//{
+//    builder.UseMiddleware<RequestLoggingMiddleware>();
+//});
 
+app.UseRequestLogging();
 app.UseHttpsRedirection();
 
 app.UseAuthentication();
 app.UseAuthorization();
-
-app.UseRequestLogging();
 
 app.MapControllers();
 

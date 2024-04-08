@@ -141,9 +141,7 @@ C:\Users\HP\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\refint\M
 C:\Users\HP\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.pdb
 C:\Users\HP\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.genruntimeconfig.cache
 C:\Users\HP\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\ref\MinimalChatApp.dll
-C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.dll
-C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\refint\MinimalChatApp.dll
-C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.pdb
+C:\Users\HP\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\appsettings.json
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\MinimalChatApp.exe
@@ -185,6 +183,7 @@ C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Mic
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -273,6 +272,7 @@ C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\Min
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.csproj.CoreCompileInputs.cache
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.sourcelink.json
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\staticwebassets\msbuild.MinimalChatApp.Microsoft.AspNetCore.StaticWebAssets.props
@@ -282,6 +282,8 @@ C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\sta
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\scopedcss\bundle\MinimalChatApp.styles.css
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalC.44FD723C.Up2Date
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.dll
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\refint\MinimalChatApp.dll
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.pdb
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.genruntimeconfig.cache
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\ref\MinimalChatApp.dll
-C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.sourcelink.json
