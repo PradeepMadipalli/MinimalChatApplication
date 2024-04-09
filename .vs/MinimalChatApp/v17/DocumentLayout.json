@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\model\\errorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\model\\errorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,12 +11,28 @@
       "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\business\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\minimalchatapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\minimalchatapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\minimalchatapp\\business\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\minimalchatapp\\business\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\minimalchatapp\\business\\iloggerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\minimalchatapp\\business\\iloggerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\model\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\model\\errorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\model\\errorlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\minimalchatapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\minimalchatapp\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\controllers\\logscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|solutionrelative:minimalchatapp\\model\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3780B10F-60D7-4860-8383-407BD1274D72}|MinimalChatApp\\MinimalChatApp.csproj|c:\\users\\promact\\source\\repos\\minimalchatapp\\minimalchatapp\\model\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,11 +90,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Program.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Program.cs",
@@ -102,25 +106,25 @@
               "IsPinned": true
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\Business\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "MinimalChatApp\\MinimalChatApp\\Business\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\Business\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "MinimalChatApp\\MinimalChatApp\\Business\\RequestLoggingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:41:25.729Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAADwv1UAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T12:34:01.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Model\\Register.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Model\\Register.cs",
@@ -128,11 +132,12 @@
               "RelativeToolTip": "MinimalChatApp\\Model\\Register.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T08:43:37.328Z"
+              "WhenOpened": "2024-04-06T08:43:37.328Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RequestLoggingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Business\\RequestLoggingMiddleware.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Business\\RequestLoggingMiddleware.cs",
@@ -145,20 +150,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MessageController.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Controllers\\MessageController.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Controllers\\MessageController.cs",
               "ToolTip": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Controllers\\MessageController.cs",
               "RelativeToolTip": "MinimalChatApp\\Controllers\\MessageController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAkwLgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T10:33:26.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\appsettings.json",
               "RelativeDocumentMoniker": "MinimalChatApp\\appsettings.json",
@@ -170,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ErrorLogger.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Model\\ErrorLogger.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Model\\ErrorLogger.cs",
@@ -178,12 +183,11 @@
               "RelativeToolTip": "MinimalChatApp\\Model\\ErrorLogger.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T05:46:41.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T05:46:41.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Model\\Message.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Model\\Message.cs",
@@ -196,19 +200,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "IloggerInfo.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\Business\\IloggerInfo.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\MinimalChatApp\\Business\\IloggerInfo.cs",
               "ToolTip": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\Business\\IloggerInfo.cs",
               "RelativeToolTip": "MinimalChatApp\\MinimalChatApp\\Business\\IloggerInfo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-09T12:33:50.647Z"
+              "WhenOpened": "2024-04-09T12:33:50.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAADwv1UAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T12:34:01.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LogsController.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Controllers\\LogsController.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Controllers\\LogsController.cs",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MinimalChatApp.csproj",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp.csproj",
               "RelativeDocumentMoniker": "MinimalChatApp\\MinimalChatApp.csproj",
@@ -232,7 +249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "IloggerInfo.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Business\\IloggerInfo.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Business\\IloggerInfo.cs",
@@ -244,7 +261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Logs.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Model\\Logs.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Model\\Logs.cs",
@@ -256,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "LoginController.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Controllers\\LoginController.cs",
@@ -268,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Model\\Users.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Model\\Users.cs",
@@ -280,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ChatDBContext.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Model\\ChatDBContext.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Model\\ChatDBContext.cs",
@@ -292,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "20240406063025_logs_migration.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Migrations\\20240406063025_logs_migration.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Migrations\\20240406063025_logs_migration.cs",
@@ -304,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ErrorInfo.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Model\\ErrorInfo.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Model\\ErrorInfo.cs",
@@ -316,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\Model\\Response.cs",
               "RelativeDocumentMoniker": "MinimalChatApp\\Model\\Response.cs",

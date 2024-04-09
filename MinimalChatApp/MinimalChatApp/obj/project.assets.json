@@ -4464,19 +4464,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HP\\.nuget\\packages\\": {}
+    "C:\\Users\\promact\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp.csproj",
+      "projectUniqueName": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp.csproj",
       "projectName": "MinimalChatApp",
-      "projectPath": "D:\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp.csproj",
-      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\MinimalChatApp\\MinimalChatApp\\obj\\",
+      "projectPath": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp.csproj",
+      "packagesPath": "C:\\Users\\promact\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\promact\\source\\repos\\MinimalChatApp\\MinimalChatApp\\MinimalChatApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\promact\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4569,7 +4569,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
