@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\MinimalChatApp.props" />
-</Project>
