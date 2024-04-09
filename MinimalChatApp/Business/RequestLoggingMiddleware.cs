@@ -34,9 +34,6 @@ namespace MinimalChatApp.Business
         {
             try
             {
-
-
-                //await context.Response.WriteAsJsonAsync<Logs>(logs);
                 // Log request details
              
                 LogRequest(context, dbcontext);

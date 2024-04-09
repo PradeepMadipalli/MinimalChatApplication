@@ -287,3 +287,7 @@ C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\ref
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.pdb
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\MinimalChatApp.genruntimeconfig.cache
 C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\obj\Debug\net8.0\ref\MinimalChatApp.dll
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\promact\source\repos\MinimalChatApp\MinimalChatApp\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll

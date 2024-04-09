@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -13,17 +14,20 @@ namespace MinimalChatApp.Controllers
 {
     [Route("api/")]
     [ApiController]
+    [EnableCors("AllowOrigin")]
    
     public class LoginController : ControllerBase
     {
         private readonly IConfiguration _Configuration;
         private readonly UserManager<IdentityUser> _userManager;
+        
 
-        public LoginController(IConfiguration configuration, UserManager<IdentityUser> userManager
+        public LoginController(IConfiguration configuration, UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager
             )
         {
             _Configuration = configuration;
             _userManager = userManager;
+            
         }
 
 
